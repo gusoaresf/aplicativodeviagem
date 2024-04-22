@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-travel-app",
-    "slug": "expo-travel-app",
+    "name": "Aplicativo de viagem",
+    "slug": "Aplicativo de viagem",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

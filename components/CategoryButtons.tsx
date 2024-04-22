@@ -32,7 +32,7 @@ const CategoryButtons = ({onCagtegoryChanged}: Props) => {
 
   return (
     <View>
-      <Text style={styles.title}>Categories</Text>
+      <Text style={styles.title}>Categorias</Text>
       <ScrollView
         ref={scrollRef}
         horizontal

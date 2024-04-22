@@ -1,42 +1,42 @@
 const destinationCategories = [
   {
-    title: "All",
+    title: "Geral",
     iconName: "hiking"
   },
   {
-    title: "Beaches",
+    title: "Praias",
     iconName: "beach"
   },
   {
-    title: "Mountains",
+    title: "Montanhas",
     iconName: "terrain"
   },
   {
-    title: "Cities",
+    title: "Cidades",
     iconName: "city"
   },
   {
-    title: "Forests",
+    title: "Florestas",
     iconName: "tree"
   },
   {
-    title: "Lakes",
+    title: "Lagos",
     iconName: "swim"
   },
   {
-    title: "Historical Sites",
+    title: "Cidades Históricas",
     iconName: "castle"
   },
   {
-    title: "National Parks",
+    title: "Parques Nacionais",
     iconName: "pine-tree"
   },
   {
-    title: "Islands",
+    title: "Ilhas",
     iconName: "island"
   },
   {
-    title: "Deserts",
+    title: "Desertos",
     iconName: "weather-sunny"
   }
 ];

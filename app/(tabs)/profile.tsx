@@ -4,7 +4,8 @@ import React from 'react'
 const Page = () => {
   return (
     <View style={styles.container}>
-      <Text>Profile</Text>
+      <Text>RM 97850 - Gustavo Soares</Text>
+      <Text>RM 98774 - Gabriel Previ de Oliveira</Text>
     </View>
   )
 }

@@ -30,7 +30,7 @@ const GroupListings = ({ listings }: { listings: GroupType[] }) => {
 
   return (
     <View style={{ marginVertical: 20 }}>
-      <Text style={styles.title}>Top Travel Groups</Text>
+      <Text style={styles.title}>Top Viagens</Text>
       <FlatList
         data={listings}
         renderItem={renderItem}
